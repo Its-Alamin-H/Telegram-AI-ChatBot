@@ -1,2 +1,2 @@
-# Telegram-AI-ChatBot
-AI Integrated Telegram ChatBot with Image Generation Capability 
+# Telegram-AI-ChatBot-build with OpenAI API
+This telegram bot is also capable of image generation by using DALL·E 2 model.
